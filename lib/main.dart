@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
         splitScreenMode: true,
         builder: (context, child) {
           return GetMaterialApp(
-              title: 'Mzizi',
+              title: 'Getx SetUp',
               debugShowCheckedModeBanner: false,
               enableLog: true,
               initialRoute: Routes.LOGIN,
