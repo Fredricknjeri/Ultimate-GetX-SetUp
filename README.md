@@ -10,5 +10,5 @@ Uses:
   GetStorage -extra light and synchronous key-value in memory
   flutter_screenutil - for responsive
   flutter_easyloading - for awesome loader
-  fluttertoast - to get that toast
+  fluttertoast - to get those toast messages
   
