@@ -1,16 +1,14 @@
 # getxsetup
 
-A new Flutter project.
+This is a basic starting set up with Getx state management.
+The aim of the set up is to provide the initial flow(architecture) of a project.
+Save time setting up.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uses:
+  Get - high-performance state management, intelligent dependency injection, and route management 
+  GetStorage -extra light and synchronous key-value in memory
+  flutter_screenutil - for responsive
+  flutter_easyloading - for awesome loader
+  fluttertoast - to get that toast
+  
