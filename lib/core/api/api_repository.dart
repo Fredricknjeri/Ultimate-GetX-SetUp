@@ -1,12 +1,3 @@
-import 'dart:async';
-
-// import 'package:flutter_getx_boilerplate/models/models.dart';
-// import 'package:flutter_getx_boilerplate/models/response/users_response.dart';
-import 'package:get/get_connect/http/src/response/response.dart';
-
-
-
-
 import 'api.dart';
 
 class ApiRepository {
