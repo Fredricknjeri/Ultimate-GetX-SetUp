@@ -14,7 +14,7 @@ class AppPages {
     GetPage(
       name: Routes.LOGIN,
       page: () => const LoginView(),
-      binding: SignInBinding(),
+      binding: LoginBinding(),
       children: [
         GetPage(name: Routes.HOME, page: () => HomeView()),
       ],
